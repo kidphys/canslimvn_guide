@@ -1,9 +1,14 @@
 ## Hướng dẫn sử dụng bảng tổng hợp canslim.vn
 ![alt text](images/overview.png "Logo Title Text 1")
 
-You can use the [editor on GitHub](https://github.com/kidphys/canslimvn_guide/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Triết lý đánh chứng của Canslim, là chỉ quan tâm tới các mã cổ phiếu tốt nhất, mạnh nhất,khỏe nhất, do vậy trong phiên giao dịch, không quan tâm các mã cổ phiếu giảm giá, chỉ theo dõi các mã cổ phiếu tăng giá tốt+ thanh khoản tốt+ xu hướng uptrend
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Bảng tổng hợp là lọc ra các mã cp đạt tiêu chí này:
+Tăng giá tốt >=1% + giao dịch >= 2 tỷ+  xu hướng Uptrend
+
+Từ các mã khỏe này, chúng ta sẽ lọc để tìm ra các cơ hội đầu tư tốt nhất, chúng ta xem mã nào báo: 
+
+   “ĐIỂM PHỤC HỒI” HOẶC “ĐIỂM BÙNG NỔ”, HOẶC “ĐIỂM MUA CANSLIM”
 
 ### Markdown
 
