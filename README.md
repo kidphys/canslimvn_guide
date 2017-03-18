@@ -13,34 +13,12 @@ Từ các mã khỏe này, chúng ta sẽ lọc để tìm ra các cơ hội đ�
 Khi thấy bảng báo các điểm mua này, chúng ta ngay lập tức xem đồ thị của cổ phiếu, bằng cách nháy vào biểu tượng đồ thị: 
 
 ![alt text](images/sample_symbol.png "Mã ví dụ")
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Hoặc nháy vào ký tự tên mã cổ phiếu nằm ở giữa 2 cột báo mua
 
-```markdown
-Syntax highlighted code block
+![alt text](images/diemmua.png "Điểm mua")
 
-# Header 1
-## Header 2
-### Header 3
+Sẽ ra chart như sau:
 
-- Bulleted
-- List
+![alt text](images/chart.png "Điểm mua")
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kidphys/canslimvn_guide/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
