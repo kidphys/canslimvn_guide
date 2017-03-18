@@ -11,6 +11,7 @@ Từ các mã khỏe này, chúng ta sẽ lọc để tìm ra các cơ hội đ�
    **“ĐIỂM PHỤC HỒI” HOẶC “ĐIỂM BÙNG NỔ”, HOẶC “ĐIỂM MUA CANSLIM”**
 
 Khi thấy bảng báo các điểm mua này, chúng ta ngay lập tức xem đồ thị của cổ phiếu, bằng cách nháy vào biểu tượng đồ thị: 
+
 ![alt text](images/sample_symbol.png "Mã ví dụ")
 ### Markdown
 
